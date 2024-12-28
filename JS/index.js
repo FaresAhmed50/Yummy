@@ -1,0 +1,10 @@
+import { Navigation } from "./Navigation.module.js";
+import { Api } from "./API.module.js";
+import { Ui } from "./UI.module.js";
+import { Validation } from "./Validation.module.js";
+const nav = new Navigation();
+const api = new Api();
+const ui = new Ui();
+const validator = new Validation();
+nav.initializeNavLinks();
+nav.siteStarter();
