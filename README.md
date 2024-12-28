@@ -33,7 +33,7 @@ Yummy utilizes the powerful [TheMealDB API](https://www.themealdb.com/api.php) t
 ---
 
 ## 🌍 **Live Demo**
-Experience the magic of Yummy: [👉 Visit the Website](https://ayoyh.github.io/Yummy/)
+Experience the magic of Yummy: [👉 Visit the Website](https://faresahmed50.github.io/Yummy/)
 
 ---
 
